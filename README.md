@@ -5,6 +5,18 @@
 
 (talk about how everyone can edit right in the github UI and contribute)
 
+# Monthly Responsibilities Template
+
+* find/schedule speaker
+* confirm meeting venue
+* edit meetup to include speaker, abstract, lightning talk, agenda
+* announce main meeting via twitter and google groups
+  * 1 month before
+  * 1 week before
+  * day before
+  * day of
+* announce hack nights via twitter and google groups
+* show up an hour early to setup meeting venue
 
 # Schedule Speakers For Upcoming Events
 
@@ -22,8 +34,6 @@ This is a list that Ryan (@rmcastil) put together from his trip to Ruby DCamp.
 * Jason Wieringa @jwieringa (@rmcastil requested via Ruby DCamp)
 * Sean Marcia @seanmarcia (@rmcastil requested via Ruby DCamp)
 * Jamie Wright @jwright (@rmcastil requested via twitter)
-
-
 
 # Other Events
 
