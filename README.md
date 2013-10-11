@@ -1,4 +1,3 @@
-
 # About
 
 (add some notes here about this file)
@@ -10,12 +9,12 @@
 * find/schedule speaker
 * confirm meeting venue
 * edit meetup to include speaker, abstract, lightning talk, agenda
-* announce main meeting via twitter and google groups
-  * 1 month before
-  * 1 week before
-  * day before
-  * day of
-* announce hack nights via twitter and google groups
+* announce main meeting via twitter and google groups - Brandon Flade @\_bmf\_
+  * 1 month before - Brandon Flade @\_bmf\_
+  * 1 week before - Brandon Flade @\_bmf\_
+  * day before - Brandon Flade @\_bmf\_
+  * day of - Brandon Flade @\_bmf\_
+* announce hack nights via twitter and google groups - Brandon Flade @\_bmf\_
 * show up an hour early to setup meeting venue
 
 # Schedule Speakers For Upcoming Events
