@@ -8,6 +8,12 @@
 
 # Schedule Speakers For Upcoming Events
 
+Please pitch in and add to this list or update it as we work to confirm a speaker for a specific date. Once that is done, here is a check list we want to do.
+
+* Announce speakers/abstract on meetup
+* Announce meetup on twitter and google groups
+* Make sure meetup.com copy looks good on the [757rb.org](http://757rb.org/) site.
+
 This is a list that Ryan (@rmcastil) put together from his trip to Ruby DCamp.
 
 * Andrew Culver @andrewculver (@rmcastil requested via twitter)
@@ -16,8 +22,7 @@ This is a list that Ryan (@rmcastil) put together from his trip to Ruby DCamp.
 * Jason Wieringa @jwieringa (@rmcastil requested via Ruby DCamp)
 * Sean Marcia @seanmarcia (@rmcastil requested via Ruby DCamp)
 * Jamie Wright @jwright (@rmcastil requested via twitter)
-* Announce speakers/abstract on meetup
-* Announce meetup on twitter and google groups
+
 
 
 # Other Events
