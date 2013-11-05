@@ -23,6 +23,9 @@ Location: [Hatch][hatch]
 
 * Recommendations for parking on site
 
+### Done
+
+* Facilitators (Ryan Castillo and Ken Taylor)
 ### Resources
 
 * [Hosting FAQ][faq]
