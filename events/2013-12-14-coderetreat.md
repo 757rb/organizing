@@ -9,7 +9,6 @@ Location: [Hatch][hatch]
 
 ### To Do
 
-* [Register][register] with the Global Day of Codretreat site.
 * Secure sponsors
 * Confirm location with Hatch 
 * Publicize Event (i.e. Twitter, 757.rb & HRNUG sites, etc.)
@@ -26,6 +25,8 @@ Location: [Hatch][hatch]
 ### Done
 
 * Facilitators (Ryan Castillo and Ken Taylor)
+* [Register][register] with the Global Day of Codretreat site. (Ian)
+
 ### Resources
 
 * [Hosting FAQ][faq]
