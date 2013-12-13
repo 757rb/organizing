@@ -25,7 +25,7 @@ Please pitch in and add to this list or update it as we work to confirm a speake
 * Announce meetup on twitter and google groups
 * Make sure meetup.com copy looks good on the [757rb.org](http://757rb.org/) site.
 
-#### 2013-12 Ideas
+#### Prospects From 2013-12
 
 * Eric Rohlfs (@ericrohlfs) Angular.JS At Large. Maybe push this to @Norfolk.JS group?
 * Karle Durante (@karledurante) & Chris Mar (@cmar) (**Dashboards with Dashing**)[http://www.meetup.com/dcruby/events/101392202/]
