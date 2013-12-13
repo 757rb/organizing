@@ -25,6 +25,11 @@ Please pitch in and add to this list or update it as we work to confirm a speake
 * Announce meetup on twitter and google groups
 * Make sure meetup.com copy looks good on the [757rb.org](http://757rb.org/) site.
 
+#### 2013-12 Ideas
+
+* Eric Rohlfs (@ericrohlfs) Angular.JS At Large. Maybe push this to @Norfolk.JS group?
+* Karle Durante (@karledurante) & Chris Mar (@cmar) (**Dashboards with Dashing**)[http://www.meetup.com/dcruby/events/101392202/]
+
 This is a list that Ryan (@rmcastil) put together from his trip to Ruby DCamp.
 
 * Andrew Culver @andrewculver (@rmcastil requested via twitter)
@@ -36,6 +41,5 @@ This is a list that Ryan (@rmcastil) put together from his trip to Ruby DCamp.
 
 # Other Events
 
-* Plan global day of coderetreat
 * Handle announcements of weekly hackathons
 
