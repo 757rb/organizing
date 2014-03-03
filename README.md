@@ -10,10 +10,10 @@
 * confirm meeting venue
 * edit meetup to include speaker, abstract, lightning talk, agenda
 * announce main meeting via twitter and google groups
-  * 1 month before - Brandon Flade
-  * 1 week before - Brandon Flade
-  * day before - Brandon Flade
-  * day of - Brandon Flade
+  * 1 month before
+  * 1 week before
+  * day before
+  * day of
 * show up an hour early to setup meeting venue
 
 # Schedule Speakers For Upcoming Events
