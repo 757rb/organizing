@@ -40,5 +40,7 @@ This is a list that Ryan (@rmcastil) put together from his trip to Ruby DCamp.
 
 # Other Events
 
+2014-04-10 Hack Night
+
 * Handle announcements of weekly hackathons
 
