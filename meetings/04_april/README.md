@@ -1,6 +1,6 @@
-* find/schedule speaker (TBD)
+* find/schedule speaker  N/A
 * confirm meeting venue (TBD)
-* edit meetup to include speaker, abstract, lightning talk, agenda (TBD)
+* edit meetup to include speaker, abstract, lightning talk, agenda @switchspan
 * announce main meeting via twitter and google groups (TBD)
   * 1 month before
   * 1 week before
