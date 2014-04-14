@@ -1,46 +1,59 @@
-# About
+# Open Source Organization
 
-(add some notes here about this file)
+Anyone can contribute and help organize the 757rb group. This is *our* group and helping is easy. Just take the following steps.
 
-(talk about how everyone can edit right in the github UI and contribute)
+* Join the [757rb](https://github.com/757rb) Github organization. Remember to make your membership public so others know.
+* Join the list of [watchers](https://github.com/757rb/organizing/watchers) to this `organizing` repo. This will make sure you get emails on all threads.
+* Talk and have fun!
+
+Like JavaScript? Our sister group [@NorfolkJS](https://github.com/norfolkjs/) uses Github to organize the group too!
+
+
+
+# How We Use Github For Organizing
+
+Everything here is tracked via Github issues. We also use issue labels to help filter topics. The general idea is to start an issue and talk about it.
+
+* [All Issues](https://github.com/757rb/organizing/issues?state=open)
+* [Next Meetups](https://github.com/757rb/organizing/issues?labels=Meetups&page=1&state=open)
+* [General Ideas](https://github.com/757rb/organizing/issues?labels=Ideas&page=1&state=open)
+* [Outreach](https://github.com/757rb/organizing/issues?labels=Outreach&page=1&state=open)
+* [Prospects](https://github.com/757rb/organizing/issues?labels=Prospects&page=1&state=open)
+
+### Next Meetups
+
+Try to make the title follow a `YEAR-MONTH-DAY Topic` naming convention if it for a specific meetup date. All communications can be recorded in this issue too both before and after the meetup. We can let each other know who is updating the copy, what notes we had about the meetup and follow-up action items. 
+
+### General Ideas
+
+Anything goes here. The group is constantly changing and these threads are a great way to talk about that change.
+
+### Outreach
+
+Whenever one of our own goes out of town and speaks, let's keep notes about it in these issue types. We can talk about our own dev swag, etc.
+
+### Prospects
+
+A scratch pad of people we meet and ideas for future speakers to come and talk to us.
+
+
 
 # Monthly Responsibilities Template
 
-* find/schedule speaker
-* confirm meeting venue
-* edit meetup to include speaker, abstract, lightning talk, agenda
-* announce main meeting via twitter and google groups
-  * 1 month before
-  * 1 week before
-  * day before
-  * day of
-* show up an hour early to setup meeting venue
+This is a list of what we typically do for each meetup. If you do not have access to the [@757rb](https://twitter.com/757rb) twitter account, just open up an issue and we will get you the login information.
 
-# Schedule Speakers For Upcoming Events
+* Find and schedule a speaker.
+* Confirm the meeting venue. 
+* Edit meetup to include speaker, abstract, lightning talk, and/or agenda.
+* Announce main meeting via twitter and google groups.
+  * 1 Week Prior
+  * 1 Day Prior
+  * Current Day
+* Show up an hour early to setup meeting venue.
 
-Please pitch in and add to this list or update it as we work to confirm a speaker for a specific date. Once that is done, here is a check list we want to do.
+### Meetup.com Copy
 
-* Announce speakers/abstract on meetup
-* Announce meetup on twitter and google groups
-* Make sure meetup.com copy looks good on the [757rb.org](http://757rb.org/) site.
+When you change copy on the meetup.com site, make sure to double check that it flows well on the [757rb.org](http://757rb.org/) jekyll site. Usually the rule of thumb is to keep the first paragraph lean, to the point, and devoid of HTML markup.
 
-#### Prospects From 2013-12
 
-* Eric Rohlfs (@ericrohlfs) Angular.JS At Large. Maybe push this to @Norfolk.JS group?
-* Karle Durante (@karledurante) & Chris Mar (@cmar) (**Dashboards with Dashing**)[http://www.meetup.com/dcruby/events/101392202/]
-
-This is a list that Ryan (@rmcastil) put together from his trip to Ruby DCamp.
-
-* Andrew Culver @andrewculver (@rmcastil requested via twitter)
-* Zander @_ZPH (@rmcastil requested via Ruby DCamp)
-* Hiro Asari @hiro_asari (@rmcastil requested via Ruby DCamp)
-* Jason Wieringa @jwieringa (@rmcastil requested via Ruby DCamp)
-* Sean Marcia @seanmarcia (@rmcastil requested via Ruby DCamp)
-* Jamie Wright @jwright (@rmcastil requested via twitter)
-
-# Other Events
-
-2014-04-10 Hack Night
-
-* Handle announcements of weekly hackathons
 
